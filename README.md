@@ -1,1 +1,1 @@
-# React + Styled Components
+# React + Vite + Styled Components
